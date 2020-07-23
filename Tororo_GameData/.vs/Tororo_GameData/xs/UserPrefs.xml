@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{92396404-CD68-7B3A-F897-3EB2204BF5F9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Toon/Shader/Toon_OutlineObject_StencilOut.shader">
+    <Files>
+      <File FileName="Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs" Line="3" Column="1" />
+      <File FileName="Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" Line="3" Column="22" />
+      <File FileName="Assets/Toon/Shader/Toon_OutlineObject_StencilOut.shader" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tororo_GameData" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Cameras" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="Utility" expanded="True" />
+              </Node>
+              <Node name="Toon" expanded="True">
+                <Node name="Shader" expanded="True">
+                  <Node name="Toon_OutlineObject_StencilOut.shader" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
